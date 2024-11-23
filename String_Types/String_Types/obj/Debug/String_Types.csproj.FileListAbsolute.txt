@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\bin\Debug\String_Types.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\bin\Debug\String_Types.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\bin\Debug\String_Types.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\obj\Debug\String_Types.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\obj\Debug\String_Types.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\obj\Debug\String_Types.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\String_Types\String_Types\obj\Debug\String_Types.pdb
