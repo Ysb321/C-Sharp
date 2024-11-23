@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\bin\Debug\Logical Operators.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\bin\Debug\Logical Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\bin\Debug\Logical Operators.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\obj\Debug\Logical Operators.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\obj\Debug\Logical Operators.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\obj\Debug\Logical Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logical Operators\Logical Operators\obj\Debug\Logical Operators.pdb

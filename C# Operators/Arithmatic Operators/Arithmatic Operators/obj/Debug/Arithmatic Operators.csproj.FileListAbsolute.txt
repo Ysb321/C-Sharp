@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\bin\Debug\Arithmatic Operators.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Arithmatic Operators\Arithmatic Operators\obj\Debug\Arithmatic Operators.pdb

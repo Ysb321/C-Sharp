@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\bin\Debug\Assignment Operators.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Assignment Operators\Assignment Operators\obj\Debug\Assignment Operators.pdb
