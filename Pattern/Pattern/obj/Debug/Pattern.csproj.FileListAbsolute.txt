@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\bin\Debug\Pattern.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\bin\Debug\Pattern.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\bin\Debug\Pattern.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\obj\Debug\Pattern.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Pattern\Pattern\obj\Debug\Pattern.pdb
