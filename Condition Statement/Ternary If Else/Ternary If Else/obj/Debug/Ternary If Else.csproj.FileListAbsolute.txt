@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\bin\Debug\Ternary If Else.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\bin\Debug\Ternary If Else.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\bin\Debug\Ternary If Else.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\obj\Debug\Ternary If Else.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\obj\Debug\Ternary If Else.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\obj\Debug\Ternary If Else.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Ternary If Else\Ternary If Else\obj\Debug\Ternary If Else.pdb

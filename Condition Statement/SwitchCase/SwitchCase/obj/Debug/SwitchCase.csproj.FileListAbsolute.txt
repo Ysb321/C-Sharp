@@ -1,0 +1,14 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Condition Statement\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
