@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\bin\Debug\arraytest.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\bin\Debug\arraytest.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\bin\Debug\arraytest.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\obj\Debug\arraytest.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\obj\Debug\arraytest.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\obj\Debug\arraytest.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\arraytest\arraytest\obj\Debug\arraytest.pdb
