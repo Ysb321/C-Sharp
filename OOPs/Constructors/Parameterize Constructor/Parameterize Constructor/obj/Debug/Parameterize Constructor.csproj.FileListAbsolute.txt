@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\bin\Debug\Parameterize Constructor.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\bin\Debug\Parameterize Constructor.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\bin\Debug\Parameterize Constructor.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\obj\Debug\Parameterize Constructor.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\obj\Debug\Parameterize Constructor.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\obj\Debug\Parameterize Constructor.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\OOPs\Constructors\Parameterize Constructor\Parameterize Constructor\obj\Debug\Parameterize Constructor.pdb
