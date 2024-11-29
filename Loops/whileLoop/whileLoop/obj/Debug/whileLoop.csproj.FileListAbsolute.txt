@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\bin\Debug\whileLoop.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\bin\Debug\whileLoop.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\bin\Debug\whileLoop.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\obj\Debug\whileLoop.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\obj\Debug\whileLoop.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\whileLoop\whileLoop\obj\Debug\whileLoop.pdb
