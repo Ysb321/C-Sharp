@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\obj\Debug\propertyExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\obj\Debug\propertyExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\bin\Debug\propertyExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\bin\Debug\propertyExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\bin\Debug\propertyExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\obj\Debug\propertyExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\propertyExample\propertyExample\obj\Debug\propertyExample.pdb

@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
