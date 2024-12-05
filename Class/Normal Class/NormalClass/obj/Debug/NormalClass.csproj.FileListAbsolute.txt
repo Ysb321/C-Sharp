@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\bin\Debug\NormalClass.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\bin\Debug\NormalClass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\bin\Debug\NormalClass.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\obj\Debug\NormalClass.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\obj\Debug\NormalClass.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\obj\Debug\NormalClass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\NormalClass\NormalClass\obj\Debug\NormalClass.pdb

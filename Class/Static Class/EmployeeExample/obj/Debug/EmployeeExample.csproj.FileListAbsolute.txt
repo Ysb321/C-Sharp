@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\bin\Debug\EmployeeExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\bin\Debug\EmployeeExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\bin\Debug\EmployeeExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\obj\Debug\EmployeeExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\obj\Debug\EmployeeExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\obj\Debug\EmployeeExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EmployeeExample\EmployeeExample\obj\Debug\EmployeeExample.pdb

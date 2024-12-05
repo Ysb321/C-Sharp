@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\bin\Debug\PartialExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\bin\Debug\PartialExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\bin\Debug\PartialExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\obj\Debug\PartialExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\obj\Debug\PartialExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\obj\Debug\PartialExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\PartialExample\PartialExample\obj\Debug\PartialExample.pdb
