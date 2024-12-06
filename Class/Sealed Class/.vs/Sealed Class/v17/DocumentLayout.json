@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\sealed class\\sealed class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|solutionrelative:sealed class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\sealed class\\sealed class\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|solutionrelative:sealed class\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\sealed class\\sealed class\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4985020E-0377-4683-B5BD-1EF00FC56DE2}|Sealed Class\\Sealed Class.csproj|solutionrelative:sealed class\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Derived.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\Derived.cs",
+              "RelativeDocumentMoniker": "Sealed Class\\Derived.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\Derived.cs",
+              "RelativeToolTip": "Sealed Class\\Derived.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:57:02.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sealed.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\sealed.cs",
+              "RelativeDocumentMoniker": "Sealed Class\\sealed.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\sealed.cs",
+              "RelativeToolTip": "Sealed Class\\sealed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:55:44.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\Program.cs",
+              "RelativeDocumentMoniker": "Sealed Class\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Sealed Class\\Sealed Class\\Program.cs",
+              "RelativeToolTip": "Sealed Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:54:27.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

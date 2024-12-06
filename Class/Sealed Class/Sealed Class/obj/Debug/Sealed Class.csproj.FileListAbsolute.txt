@@ -1,0 +1,2 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Sealed Class\Sealed Class\obj\Debug\Sealed Class.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Sealed Class\Sealed Class\obj\Debug\Sealed Class.csproj.CoreCompileInputs.cache

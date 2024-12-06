@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8385C3-CC0E-47DC-B2E4-15327680A54D}|multilevel\\multilevel.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\multilevel\\multilevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8385C3-CC0E-47DC-B2E4-15327680A54D}|multilevel\\multilevel.csproj|solutionrelative:multilevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8385C3-CC0E-47DC-B2E4-15327680A54D}|multilevel\\multilevel.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\multilevel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8385C3-CC0E-47DC-B2E4-15327680A54D}|multilevel\\multilevel.csproj|solutionrelative:multilevel\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\multilevel\\person.cs",
+              "RelativeDocumentMoniker": "multilevel\\person.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\multilevel\\person.cs",
+              "RelativeToolTip": "multilevel\\person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:22:56.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\multilevel\\Program.cs",
+              "RelativeDocumentMoniker": "multilevel\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\multilevel\\multilevel\\Program.cs",
+              "RelativeToolTip": "multilevel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:22:12.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
