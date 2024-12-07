@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionoverriding\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|solutionrelative:functionoverriding\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionoverriding\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|solutionrelative:functionoverriding\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\functionoverriding\\functionoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F990BC-6EC9-4D8D-8FB8-5E55439BB29A}|functionOverriding\\functionOverriding.csproj|solutionrelative:functionoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Derived.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Derived.cs",
+              "RelativeDocumentMoniker": "functionOverriding\\Derived.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Derived.cs",
+              "RelativeToolTip": "functionOverriding\\Derived.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:03:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Base.cs",
+              "RelativeDocumentMoniker": "functionOverriding\\Base.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Base.cs",
+              "RelativeToolTip": "functionOverriding\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:02:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "functionOverriding\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\functionOverriding\\functionOverriding\\Program.cs",
+              "RelativeToolTip": "functionOverriding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:02:20.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

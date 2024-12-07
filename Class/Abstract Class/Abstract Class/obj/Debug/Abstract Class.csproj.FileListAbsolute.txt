@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\bin\Debug\Abstract Class.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\bin\Debug\Abstract Class.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\obj\Debug\Abstract Class.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Abstract Class\Abstract Class\obj\Debug\Abstract Class.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\multiple inheritance using interface\\multiple inheritance using interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|solutionrelative:multiple inheritance using interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\multiple inheritance using interface\\multiple inheritance using interface\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|solutionrelative:multiple inheritance using interface\\honda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\multiple inheritance using interface\\multiple inheritance using interface\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|solutionrelative:multiple inheritance using interface\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\multiple inheritance using interface\\multiple inheritance using interface\\herohonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E5BC4B-2802-4E22-B6D5-0E25A93D15F4}|Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface.csproj|solutionrelative:multiple inheritance using interface\\herohonda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroHonda.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\HeroHonda.cs",
+              "RelativeDocumentMoniker": "Multiple Inheritance Using Interface\\HeroHonda.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\HeroHonda.cs*",
+              "RelativeToolTip": "Multiple Inheritance Using Interface\\HeroHonda.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:55:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Honda.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Honda.cs",
+              "RelativeDocumentMoniker": "Multiple Inheritance Using Interface\\Honda.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Honda.cs",
+              "RelativeToolTip": "Multiple Inheritance Using Interface\\Honda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:53:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Hero.cs",
+              "RelativeDocumentMoniker": "Multiple Inheritance Using Interface\\Hero.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Hero.cs",
+              "RelativeToolTip": "Multiple Inheritance Using Interface\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:50:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Multiple Inheritance Using Interface\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\Multiple Inheritance Using Interface\\Multiple Inheritance Using Interface\\Program.cs",
+              "RelativeToolTip": "Multiple Inheritance Using Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:49:42.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

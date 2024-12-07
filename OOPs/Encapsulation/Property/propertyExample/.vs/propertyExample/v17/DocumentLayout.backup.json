@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\propertyExample\\",
+  "WorkspaceRootPath": "D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\propertyexample\\propertyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|solutionrelative:propertyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\propertyexample\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|solutionrelative:propertyexample\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\propertyexample\\propertyexample\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|solutionrelative:propertyexample\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|d:\\c and cpp\\c-sharp\\oops\\encapsulation\\property\\propertyexample\\propertyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CCC6E3A-EB72-4299-BBE9-BBD74DDC0776}|propertyExample\\propertyExample.csproj|solutionrelative:propertyexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmployeeData.cs",
-              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\propertyExample\\propertyExample\\EmployeeData.cs",
+              "DocumentMoniker": "D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\propertyExample\\EmployeeData.cs",
               "RelativeDocumentMoniker": "propertyExample\\EmployeeData.cs",
-              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\propertyExample\\propertyExample\\EmployeeData.cs",
+              "ToolTip": "D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\propertyExample\\EmployeeData.cs",
               "RelativeToolTip": "propertyExample\\EmployeeData.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T18:12:34.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\propertyExample\\propertyExample\\Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\propertyExample\\Program.cs",
               "RelativeDocumentMoniker": "propertyExample\\Program.cs",
-              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\propertyExample\\propertyExample\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\C-Sharp\\OOPs\\Encapsulation\\Property\\propertyExample\\propertyExample\\Program.cs",
               "RelativeToolTip": "propertyExample\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
