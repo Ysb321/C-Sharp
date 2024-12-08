@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\bin\Debug\CopyConstructorExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\bin\Debug\CopyConstructorExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\bin\Debug\CopyConstructorExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\obj\Debug\CopyConstructorExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\obj\Debug\CopyConstructorExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\obj\Debug\CopyConstructorExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\CopyConstructorExample\CopyConstructorExample\obj\Debug\CopyConstructorExample.pdb

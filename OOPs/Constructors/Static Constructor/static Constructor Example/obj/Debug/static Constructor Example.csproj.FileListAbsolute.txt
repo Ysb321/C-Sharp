@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\bin\Debug\static Constructor Example.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\bin\Debug\static Constructor Example.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\bin\Debug\static Constructor Example.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\obj\Debug\static Constructor Example.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\obj\Debug\static Constructor Example.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\obj\Debug\static Constructor Example.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\static Constructor Example\static Constructor Example\obj\Debug\static Constructor Example.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\static Constructor Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A9EB39-6B75-4D0F-9EC5-7F871CD605B1}|static Constructor Example\\static Constructor Example.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\static constructor example\\static constructor example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A9EB39-6B75-4D0F-9EC5-7F871CD605B1}|static Constructor Example\\static Constructor Example.csproj|solutionrelative:static constructor example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A9EB39-6B75-4D0F-9EC5-7F871CD605B1}|static Constructor Example\\static Constructor Example.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\static constructor example\\static constructor example\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A9EB39-6B75-4D0F-9EC5-7F871CD605B1}|static Constructor Example\\static Constructor Example.csproj|solutionrelative:static constructor example\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\static Constructor Example\\static Constructor Example\\Emp.cs",
+              "RelativeDocumentMoniker": "static Constructor Example\\Emp.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\static Constructor Example\\static Constructor Example\\Emp.cs*",
+              "RelativeToolTip": "static Constructor Example\\Emp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:45:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\static Constructor Example\\static Constructor Example\\Program.cs",
+              "RelativeDocumentMoniker": "static Constructor Example\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\static Constructor Example\\static Constructor Example\\Program.cs",
+              "RelativeToolTip": "static Constructor Example\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:45:51.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

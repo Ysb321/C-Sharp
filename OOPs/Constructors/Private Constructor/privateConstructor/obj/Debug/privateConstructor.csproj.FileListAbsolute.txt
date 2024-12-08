@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\obj\Debug\privateConstructor.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\obj\Debug\privateConstructor.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\bin\Debug\privateConstructor.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\bin\Debug\privateConstructor.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\bin\Debug\privateConstructor.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\obj\Debug\privateConstructor.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\privateConstructor\privateConstructor\obj\Debug\privateConstructor.pdb
