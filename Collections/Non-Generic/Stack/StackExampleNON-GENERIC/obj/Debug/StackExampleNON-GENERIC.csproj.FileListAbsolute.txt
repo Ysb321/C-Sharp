@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\bin\Debug\StackExampleNON-GENERIC.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\bin\Debug\StackExampleNON-GENERIC.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\bin\Debug\StackExampleNON-GENERIC.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\obj\Debug\StackExampleNON-GENERIC.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\obj\Debug\StackExampleNON-GENERIC.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\obj\Debug\StackExampleNON-GENERIC.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExampleNON-GENERIC\StackExampleNON-GENERIC\obj\Debug\StackExampleNON-GENERIC.pdb

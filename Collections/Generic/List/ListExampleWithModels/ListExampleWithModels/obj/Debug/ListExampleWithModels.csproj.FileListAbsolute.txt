@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\bin\Debug\ListExampleWithModels.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\bin\Debug\ListExampleWithModels.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\bin\Debug\ListExampleWithModels.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\obj\Debug\ListExampleWithModels.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\obj\Debug\ListExampleWithModels.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\obj\Debug\ListExampleWithModels.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\ListExampleWithModels\ListExampleWithModels\obj\Debug\ListExampleWithModels.pdb

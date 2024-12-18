@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\hybridinhertance\\hybridinhertance\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|solutionrelative:hybridinhertance\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\hybridinhertance\\hybridinhertance\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|solutionrelative:hybridinhertance\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\hybridinhertance\\hybridinhertance\\derived1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|solutionrelative:hybridinhertance\\derived1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\hybridinhertance\\hybridinhertance\\derived2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|solutionrelative:hybridinhertance\\derived2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\hybridinhertance\\hybridinhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D008B2A9-DB63-4E2F-9FE6-3C6091C71933}|HybridInhertance\\HybridInhertance.csproj|solutionrelative:hybridinhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "HybridInhertance\\EmployeeDetails.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\EmployeeDetails.cs",
+              "RelativeToolTip": "HybridInhertance\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:36:06.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Derived2.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Derived2.cs",
+              "RelativeDocumentMoniker": "HybridInhertance\\Derived2.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Derived2.cs",
+              "RelativeToolTip": "HybridInhertance\\Derived2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:34:05.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Derived1.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Derived1.cs",
+              "RelativeDocumentMoniker": "HybridInhertance\\Derived1.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Derived1.cs",
+              "RelativeToolTip": "HybridInhertance\\Derived1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:32:52.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Base.cs",
+              "RelativeDocumentMoniker": "HybridInhertance\\Base.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Base.cs",
+              "RelativeToolTip": "HybridInhertance\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:30:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Program.cs",
+              "RelativeDocumentMoniker": "HybridInhertance\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\HybridInhertance\\HybridInhertance\\Program.cs",
+              "RelativeToolTip": "HybridInhertance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:29:29.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

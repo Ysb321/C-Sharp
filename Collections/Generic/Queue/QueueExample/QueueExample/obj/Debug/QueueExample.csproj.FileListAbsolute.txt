@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExample\QueueExample\obj\Debug\QueueExample.pdb

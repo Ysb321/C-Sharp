@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

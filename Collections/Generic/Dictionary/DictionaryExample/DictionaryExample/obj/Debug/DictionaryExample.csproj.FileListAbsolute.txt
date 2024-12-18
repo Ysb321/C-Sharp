@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb

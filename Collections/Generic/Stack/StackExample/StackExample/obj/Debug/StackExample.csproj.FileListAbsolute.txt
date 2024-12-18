@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\bin\Debug\StackExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\bin\Debug\StackExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\bin\Debug\StackExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\obj\Debug\StackExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\StackExample\StackExample\obj\Debug\StackExample.pdb

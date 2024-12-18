@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\bin\Debug\multipleInheritanceExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\bin\Debug\multipleInheritanceExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\bin\Debug\multipleInheritanceExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\obj\Debug\multipleInheritanceExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\obj\Debug\multipleInheritanceExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\obj\Debug\multipleInheritanceExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\multipleInheritanceExample\multipleInheritanceExample\obj\Debug\multipleInheritanceExample.pdb

@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\bin\Debug\HybridInhertance.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\bin\Debug\HybridInhertance.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\bin\Debug\HybridInhertance.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\obj\Debug\HybridInhertance.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\obj\Debug\HybridInhertance.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\obj\Debug\HybridInhertance.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\HybridInhertance\HybridInhertance\obj\Debug\HybridInhertance.pdb

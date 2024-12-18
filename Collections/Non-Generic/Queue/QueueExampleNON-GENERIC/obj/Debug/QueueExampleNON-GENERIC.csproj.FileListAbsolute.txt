@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\bin\Debug\QueueExampleNON-GENERIC.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\bin\Debug\QueueExampleNON-GENERIC.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\bin\Debug\QueueExampleNON-GENERIC.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\obj\Debug\QueueExampleNON-GENERIC.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\obj\Debug\QueueExampleNON-GENERIC.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\obj\Debug\QueueExampleNON-GENERIC.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\QueueExampleNON-GENERIC\QueueExampleNON-GENERIC\obj\Debug\QueueExampleNON-GENERIC.pdb
