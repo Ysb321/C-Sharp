@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\obj\Debug\FileHandlingCopy.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\obj\Debug\FileHandlingCopy.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\bin\Debug\FileHandlingCopy.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\bin\Debug\FileHandlingCopy.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\bin\Debug\FileHandlingCopy.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\obj\Debug\FileHandlingCopy.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingCopy\FileHandlingCopy\obj\Debug\FileHandlingCopy.pdb

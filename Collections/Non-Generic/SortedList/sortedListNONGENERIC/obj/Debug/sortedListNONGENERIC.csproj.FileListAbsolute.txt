@@ -5,3 +5,10 @@ D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\sortedListNONGENERIC\sorte
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\sortedListNONGENERIC\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.csproj.CoreCompileInputs.cache
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\sortedListNONGENERIC\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.exe
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\sortedListNONGENERIC\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.pdb
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\bin\Debug\sortedListNONGENERIC.exe.config
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\bin\Debug\sortedListNONGENERIC.exe
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\bin\Debug\sortedListNONGENERIC.pdb
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.csproj.AssemblyReference.cache
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.csproj.CoreCompileInputs.cache
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.exe
+D:\c and cpp\C-Sharp\Collections\Non-Generic\SortedList\sortedListNONGENERIC\obj\Debug\sortedListNONGENERIC.pdb

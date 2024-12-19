@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\bin\Debug\FilesHandlingExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\bin\Debug\FilesHandlingExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\bin\Debug\FilesHandlingExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\obj\Debug\FilesHandlingExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\obj\Debug\FilesHandlingExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\obj\Debug\FilesHandlingExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FilesHandlingExample\FilesHandlingExample\obj\Debug\FilesHandlingExample.pdb

@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\bin\Debug\FileHandlingDate.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\bin\Debug\FileHandlingDate.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\bin\Debug\FileHandlingDate.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\obj\Debug\FileHandlingDate.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\obj\Debug\FileHandlingDate.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\obj\Debug\FileHandlingDate.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingDate\FileHandlingDate\obj\Debug\FileHandlingDate.pdb

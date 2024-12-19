@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\bin\Debug\FileHandlingExample2Delete.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\bin\Debug\FileHandlingExample2Delete.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\bin\Debug\FileHandlingExample2Delete.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\obj\Debug\FileHandlingExample2Delete.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\obj\Debug\FileHandlingExample2Delete.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\obj\Debug\FileHandlingExample2Delete.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingExample2Delete\FileHandlingExample2Delete\obj\Debug\FileHandlingExample2Delete.pdb
