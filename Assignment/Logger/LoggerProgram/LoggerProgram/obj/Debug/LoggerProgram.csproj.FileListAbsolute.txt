@@ -8,3 +8,13 @@ D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\LoggerProgram\LoggerProgra
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\LoggerProgram\LoggerProgram\obj\Debug\LoggerPr.7D213800.Up2Date
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.exe
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.pdb
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\bin\Debug\LoggerProgram.exe.config
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\bin\Debug\LoggerProgram.exe
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\bin\Debug\LoggerProgram.pdb
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\bin\Debug\Logger.dll
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\bin\Debug\Logger.pdb
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.csproj.AssemblyReference.cache
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.csproj.CoreCompileInputs.cache
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\obj\Debug\LoggerPr.7D213800.Up2Date
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.exe
+D:\c and cpp\C-Sharp\Assignment\Logger\LoggerProgram\LoggerProgram\obj\Debug\LoggerProgram.pdb

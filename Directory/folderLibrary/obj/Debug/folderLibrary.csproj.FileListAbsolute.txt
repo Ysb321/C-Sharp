@@ -1,0 +1,6 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\bin\Debug\folderLibrary.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\bin\Debug\folderLibrary.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\obj\Debug\folderLibrary.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\obj\Debug\folderLibrary.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\obj\Debug\folderLibrary.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DirectoryExample2\folderLibrary\obj\Debug\folderLibrary.pdb

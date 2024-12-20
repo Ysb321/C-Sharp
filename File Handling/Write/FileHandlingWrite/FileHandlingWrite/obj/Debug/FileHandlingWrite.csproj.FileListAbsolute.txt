@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\bin\Debug\FileHandlingWrite.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\bin\Debug\FileHandlingWrite.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\bin\Debug\FileHandlingWrite.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\obj\Debug\FileHandlingWrite.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\obj\Debug\FileHandlingWrite.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\obj\Debug\FileHandlingWrite.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingWrite\FileHandlingWrite\obj\Debug\FileHandlingWrite.pdb

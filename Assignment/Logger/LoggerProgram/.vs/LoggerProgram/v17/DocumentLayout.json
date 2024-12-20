@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\c and cpp\\C-Sharp\\Assignment\\Logger\\LoggerProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B616FD6-EF15-4ADC-80FE-8ABA1090BCF5}|LoggerProgram\\LoggerProgram.csproj|D:\\c and cpp\\C-Sharp\\Assignment\\Logger\\LoggerProgram\\loggerprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B616FD6-EF15-4ADC-80FE-8ABA1090BCF5}|LoggerProgram\\LoggerProgram.csproj|d:\\c and cpp\\c-sharp\\assignment\\logger\\loggerprogram\\loggerprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B616FD6-EF15-4ADC-80FE-8ABA1090BCF5}|LoggerProgram\\LoggerProgram.csproj|solutionrelative:loggerprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,8 +33,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\LoggerProgram\\LoggerProgram\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T16:50:53.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T16:50:53.007Z"
             },
             {
               "$type": "Document",
@@ -44,7 +43,7 @@
               "RelativeDocumentMoniker": "LoggerProgram\\Program.cs",
               "ToolTip": "D:\\c and cpp\\C-Sharp\\Assignment\\Logger\\LoggerProgram\\LoggerProgram\\Program.cs",
               "RelativeToolTip": "LoggerProgram\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T16:36:45Z",
               "EditorCaption": ""

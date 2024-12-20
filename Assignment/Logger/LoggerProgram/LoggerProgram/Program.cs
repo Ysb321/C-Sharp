@@ -12,15 +12,24 @@ namespace LoggerProgram
     {
         static void Main(string[] args)
         {
-            string folderPath = "D:\\c and cpp\\C-Sharp\\example";
-            if(!Directory.Exists(folderPath))
+            try
             {
-                Directory.CreateDirectory(folderPath);
-            }
+                string folderPath = "D:\\c and cpp\\C-Sharp\\example";
+                if (!Directory.Exists(folderPath))
+                {
+                    Directory.CreateDirectory(folderPath);
+                }
 
-            Logg.Info("Hello World", folderPath);
-            Logg.Debug("Hello World", folderPath);
-            Logg.Error("Hello World", folderPath);
+                Logg.Info("Hello World", folderPath);
+                Logg.Debug("Hello World", folderPath);
+                Logg.Error("Hello World", folderPath);
+            }catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }finally
+            {
+                Console.ReadLine();
+            }            
         }
     }
 }

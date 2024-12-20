@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\bin\Debug\FileHandlingAppend.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\bin\Debug\FileHandlingAppend.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\bin\Debug\FileHandlingAppend.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\obj\Debug\FileHandlingAppend.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\obj\Debug\FileHandlingAppend.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\obj\Debug\FileHandlingAppend.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\FileHandlingAppend\FileHandlingAppend\obj\Debug\FileHandlingAppend.pdb
