@@ -1,0 +1,6 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\bin\Debug\Logger.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\bin\Debug\Logger.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Debug\Logger.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Debug\Logger.pdb
