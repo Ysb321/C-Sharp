@@ -16,9 +16,10 @@ namespace Logger
             if(Directory.Exists(folderName))
             {
                 DateTime dateTime = DateTime.Now;
-                string formattedDateTime = dateTime.ToString("yyyy-MM-dd_HHMMss");
+                string formattedDateTime = dateTime.ToString("yyyy-MM-dd");
                 string filePath = Path.Combine(folderName + fileType + formattedDateTime + ".txt");
-                File.WriteAllText(filePath, message);
+                string extraLines = fileType + DateTime.Now + "\n" + "\n" + message + "\n" + "\n";
+                File.AppendAllText(filePath, extraLines);
                 Console.WriteLine("Log File Created");
             }
             else

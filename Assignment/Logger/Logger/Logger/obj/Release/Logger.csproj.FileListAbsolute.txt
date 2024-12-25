@@ -4,3 +4,9 @@ D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Release\
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Release\Logger.dll
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Logger\Logger\obj\Release\Logger.pdb
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\bin\Release\Logger.dll
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\bin\Release\Logger.pdb
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\obj\Release\Logger.csproj.AssemblyReference.cache
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\obj\Release\Logger.dll
+D:\c and cpp\C-Sharp\Assignment\Logger\Logger\Logger\obj\Release\Logger.pdb
