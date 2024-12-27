@@ -1,0 +1,6 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\bin\Release\Game.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\bin\Release\Game.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\obj\Release\Game.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\obj\Release\Game.dll
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Game\Game\obj\Release\Game.pdb

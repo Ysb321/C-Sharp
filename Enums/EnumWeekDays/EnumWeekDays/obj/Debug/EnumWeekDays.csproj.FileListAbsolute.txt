@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\bin\Debug\EnumWeekDays.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\bin\Debug\EnumWeekDays.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\bin\Debug\EnumWeekDays.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\obj\Debug\EnumWeekDays.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\obj\Debug\EnumWeekDays.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\obj\Debug\EnumWeekDays.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\EnumWeekDays\EnumWeekDays\obj\Debug\EnumWeekDays.pdb

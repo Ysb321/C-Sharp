@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\DelegateStaticClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB890F59-E2AA-4557-AD1F-4CF573A8E09B}|DelegateStaticClass\\DelegateStaticClass.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\delegatestaticclass\\delegatestaticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB890F59-E2AA-4557-AD1F-4CF573A8E09B}|DelegateStaticClass\\DelegateStaticClass.csproj|solutionrelative:delegatestaticclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB890F59-E2AA-4557-AD1F-4CF573A8E09B}|DelegateStaticClass\\DelegateStaticClass.csproj|d:\\c and cpp\\class-programs-yashraj\\dotnet\\c#\\console\\delegatestaticclass\\delegatestaticclass\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB890F59-E2AA-4557-AD1F-4CF573A8E09B}|DelegateStaticClass\\DelegateStaticClass.csproj|solutionrelative:delegatestaticclass\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Content.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\DelegateStaticClass\\DelegateStaticClass\\Content.cs",
+              "RelativeDocumentMoniker": "DelegateStaticClass\\Content.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\DelegateStaticClass\\DelegateStaticClass\\Content.cs",
+              "RelativeToolTip": "DelegateStaticClass\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:42:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\DelegateStaticClass\\DelegateStaticClass\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateStaticClass\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\Class-Programs-Yashraj\\DotNet\\C#\\Console\\DelegateStaticClass\\DelegateStaticClass\\Program.cs",
+              "RelativeToolTip": "DelegateStaticClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:42:46.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

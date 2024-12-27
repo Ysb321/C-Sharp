@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\bin\Debug\DelegateCalculator.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateCalculator\DelegateCalculator\obj\Debug\DelegateCalculator.pdb

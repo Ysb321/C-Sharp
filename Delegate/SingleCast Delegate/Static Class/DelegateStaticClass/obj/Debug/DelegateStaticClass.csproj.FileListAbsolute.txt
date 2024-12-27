@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\bin\Debug\DelegateStaticClass.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\bin\Debug\DelegateStaticClass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\bin\Debug\DelegateStaticClass.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\obj\Debug\DelegateStaticClass.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\obj\Debug\DelegateStaticClass.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\obj\Debug\DelegateStaticClass.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateStaticClass\DelegateStaticClass\obj\Debug\DelegateStaticClass.pdb

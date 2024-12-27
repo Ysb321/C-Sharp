@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\bin\Debug\Stream.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\bin\Debug\Stream.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\bin\Debug\Stream.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\obj\Debug\Stream.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\obj\Debug\Stream.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\Stream\Stream\obj\Debug\Stream.pdb

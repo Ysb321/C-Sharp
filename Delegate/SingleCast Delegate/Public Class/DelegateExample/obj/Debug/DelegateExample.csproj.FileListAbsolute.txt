@@ -1,0 +1,7 @@
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

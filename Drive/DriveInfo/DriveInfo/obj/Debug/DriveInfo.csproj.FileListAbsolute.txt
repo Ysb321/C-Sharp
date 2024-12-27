@@ -5,3 +5,10 @@ D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DriveInfo\DriveInfo\obj\De
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DriveInfo\DriveInfo\obj\Debug\DriveInfo.csproj.CoreCompileInputs.cache
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DriveInfo\DriveInfo\obj\Debug\DriveInfo.exe
 D:\c and cpp\Class-Programs-Yashraj\DotNet\C#\Console\DriveInfo\DriveInfo\obj\Debug\DriveInfo.pdb
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\bin\Debug\DriveInfo.exe.config
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\bin\Debug\DriveInfo.exe
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\bin\Debug\DriveInfo.pdb
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\obj\Debug\DriveInfo.csproj.AssemblyReference.cache
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\obj\Debug\DriveInfo.csproj.CoreCompileInputs.cache
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\obj\Debug\DriveInfo.exe
+D:\c and cpp\C-Sharp\Drive\DriveInfo\DriveInfo\obj\Debug\DriveInfo.pdb

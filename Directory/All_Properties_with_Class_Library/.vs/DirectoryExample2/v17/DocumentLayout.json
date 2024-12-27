@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c and cpp\\C-Sharp\\Directory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673CFBEF-4AC1-4E79-99DA-2F1019DA4718}|DirectoryExample2\\DirectoryExample2.csproj|d:\\c and cpp\\c-sharp\\directory\\directoryexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673CFBEF-4AC1-4E79-99DA-2F1019DA4718}|DirectoryExample2\\DirectoryExample2.csproj|solutionrelative:directoryexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A145F69A-278B-492C-BD2E-1C34C4B2DE61}|folderLibrary\\folderLibrary.csproj|d:\\c and cpp\\c-sharp\\directory\\folderlibrary\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A145F69A-278B-492C-BD2E-1C34C4B2DE61}|folderLibrary\\folderLibrary.csproj|solutionrelative:folderlibrary\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "folder.cs",
+              "DocumentMoniker": "D:\\c and cpp\\C-Sharp\\Directory\\folderLibrary\\folder.cs",
+              "RelativeDocumentMoniker": "folderLibrary\\folder.cs",
+              "ToolTip": "D:\\c and cpp\\C-Sharp\\Directory\\folderLibrary\\folder.cs",
+              "RelativeToolTip": "folderLibrary\\folder.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:34:47.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c and cpp\\C-Sharp\\Directory\\DirectoryExample2\\Program.cs",
+              "RelativeDocumentMoniker": "DirectoryExample2\\Program.cs",
+              "ToolTip": "D:\\c and cpp\\C-Sharp\\Directory\\DirectoryExample2\\Program.cs",
+              "RelativeToolTip": "DirectoryExample2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:34:34.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
